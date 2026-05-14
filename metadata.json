@@ -1,0 +1,6 @@
+{
+  "name": "Tutor Experto Pro",
+  "description": "Sistema de preparación intensiva para exámenes de Teoría de Decisiones con enfoque en excelencia académica (Objetivo 20/20).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
